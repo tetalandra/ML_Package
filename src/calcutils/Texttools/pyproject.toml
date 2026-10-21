@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ineza-texttools"
+version = "1.0.0"
+description = "A simple Python package for text processing"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+    {name = "Landra"}
+]
+
+[tool.setuptools.packages.find]
+where = ["."]

@@ -1,0 +1,24 @@
+Metadata-Version: 2.4
+Name: ineza-texttools
+Version: 1.0.0
+Summary: A simple Python package for text processing
+Author: Landra
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# TextTools
+
+TextTools is a simple Python package for basic text processing.
+
+## Features
+
+- Count words
+- Count characters
+- Reverse text
+- Check palindromes
+- Capitalize words
+
+## Installation
+
+```bash
+pip install texttools

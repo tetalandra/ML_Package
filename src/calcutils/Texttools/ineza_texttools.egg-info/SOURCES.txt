@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+ineza_texttools.egg-info/PKG-INFO
+ineza_texttools.egg-info/SOURCES.txt
+ineza_texttools.egg-info/dependency_links.txt
+ineza_texttools.egg-info/top_level.txt
+tests/test_text_utils.py
+text_tools/__init__.py
+text_tools/test_text_utils.py
+text_tools/text_utils.py
